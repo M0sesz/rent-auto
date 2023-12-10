@@ -1,4 +1,4 @@
-#RentAuto - Car rental app
+## RentAuto - Car rental app
 
 RentAuto is a web-based car rental application. It allows users to search and rent cars for their needs.
 
