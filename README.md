@@ -1,25 +1,29 @@
-# RentAuto - Додаток для Оренди Автомобілів
+#RentAuto - Car rental app
 
-RentAuto - це веб-додаток, призначений для оренди автомобілів. Він дозволяє користувачам шукати та орендовувати автомобілі для своїх потреб.
+RentAuto is a web-based car rental application. It allows users to search and rent cars for their needs.
 
-## Основні Функції
+## Main Features.
 
-- **Пошук Автомобілів:** Зручний інтерфейс дозволяє користувачам швидко знаходити автомобілі з урахуванням різних параметрів, таких як марка, модель, рік випуску тощо.
+- Car Search:** The user-friendly interface allows users to quickly find cars based on various parameters such as make, model, year of manufacture, etc.
 
-- **Фільтрація:** Користувачі можуть застосовувати різноманітні фільтри для точного визначення своїх вимог та знаходження найбільш підходящих варіантів.
+- Filtering:** Users can apply a variety of filters to pinpoint their requirements and find the most suitable options.
 
-- **Онлайн-Оренда:** Процес онлайн-оренди дозволяє користувачам швидко та зручно вибрати та замовити автомобіль через інтернет.
+- Online Rental:** The online rental process allows users to select and book a car quickly and conveniently online.
 
-## Використані Технології
+## Technologies used.
 
-- **React:** 
+- **React**. 
 
-- **Redux:** 
+- Redux 
 
-- **MockAPI** 
+- **MockAPI**. 
 
-- **Styled Components:** 
+- **Styled Components:**
+  
+- Axios 
 
-- ## Розробник
+- Vite** 
 
-- **Гончарук Антон:**
+- ## Developer
+
+- Anton Goncharuk
