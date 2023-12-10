@@ -20,7 +20,7 @@ RentAuto is a web-based car rental application. It allows users to search and re
 
 - **Styled Components**
   
-- **Axios** 
+- **Axios**
 
 - Vite** 
 
