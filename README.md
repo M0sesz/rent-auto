@@ -1,8 +1,11 @@
-# React + Vite
+# RentAuto - Додаток для Оренди Автомобілів
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+RentAuto - це веб-додаток, призначений для оренди автомобілів. Він дозволяє користувачам шукати та орендовувати автомобілі для своїх потреб.
 
-Currently, two official plugins are available:
+## Основні Функції
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Пошук Автомобілів:** Зручний інтерфейс дозволяє користувачам швидко знаходити автомобілі з урахуванням різних параметрів, таких як марка, модель, рік випуску тощо.
+
+- **Фільтрація:** Користувачі можуть застосовувати різноманітні фільтри для точного визначення своїх вимог та знаходження найбільш підходящих варіантів.
+
+- **Онлайн-Оренда:** Процес онлайн-оренди дозволяє користувачам швидко та зручно вибрати та замовити автомобіль через інтернет.
