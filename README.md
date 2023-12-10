@@ -10,17 +10,17 @@ RentAuto is a web-based car rental application. It allows users to search and re
 
 - Online Rental: The online rental process allows users to select and book a car quickly and conveniently online.
 
-## Technologies used.
+## Technologies used:
 
 - **React**. 
 
-- Redux 
+- **Redux** 
 
 - **MockAPI**. 
 
 - **Styled Components**
   
-- Axios 
+- **Axios** 
 
 - Vite** 
 
